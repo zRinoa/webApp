@@ -1,0 +1,30 @@
+{
+  "name": "webApp",
+  "version": "1.0.0",
+  "description": "angular的gulp小项目",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-cssmin": "^0.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.3.2",
+    "gulp-open": "^2.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zRinoa/webApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zRinoa/webApp/issues"
+  },
+  "homepage": "https://github.com/zRinoa/webApp#readme"
+}
